@@ -49,7 +49,7 @@ We welcome contributions! Here's how you can help:
 ## Contact
 
 - Club Leader: [adelin@hackclub.app](mailto:adelin@hackclub.app)
-- Discord: [Join our server](https://discord.gg/suceavahacks) 
+- Discord: [Join our server](https://discord.gg/qDPZXZAAyN) 
 
 ## License
 
